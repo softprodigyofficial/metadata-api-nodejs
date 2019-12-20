@@ -1,5 +1,4 @@
-const HOST = 'http://localhost:5000'
-
+const HOST = 'https://opensea-demo.herokuapp.com'
 module.exports = {
   HOST
 }
