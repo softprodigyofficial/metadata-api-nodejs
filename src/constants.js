@@ -1,5 +1,4 @@
-const HOST = 'https://birthstamps.herokuapp.com'
-
+const HOST = 'https://opensea-demo.herokuapp.com'
 module.exports = {
   HOST
 }
